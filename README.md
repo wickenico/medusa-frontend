@@ -73,7 +73,7 @@ yarn dev
 
 ### Open the code and start customizing
 
-Your site is now running at http://localhost:8000!
+Your site is now running at http://127.0.0.1:8000!
 
 Edit `/pages/index.tsx` to see your site update in real-time!
 

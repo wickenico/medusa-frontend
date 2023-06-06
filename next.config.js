@@ -5,7 +5,7 @@ module.exports = withStoreConfig({
   features: store.features,
   reactStrictMode: true,
   images: {
-    domains: ["medusa-public-images.s3.eu-west-1.amazonaws.com", "127.0.0.1", "https://seal-app-6quwi.ondigitalocean.app"],
+    domains: ["medusa-public-images.s3.eu-west-1.amazonaws.com", "https://seal-app-6quwi.ondigitalocean.app"],
   },
 })
 
